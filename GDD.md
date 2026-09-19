@@ -1,9 +1,9 @@
 🐍 GAME DESIGN DOCUMENT – Snake (Unity)
 
 Версия: 1.0 (релиз MVP)  
-Дата: 2025  
+Дата: 2026  
 Платформа: PC (Windows / Mac / Linux)  
-Движок: Unity 2022.3 LTS  
+Движок: Unity 6
 Язык: C#  
 Жанр: Arcade / Casual  
 Режим: Single-player  
