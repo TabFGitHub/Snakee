@@ -26,15 +26,15 @@
 ## 🎮 Играть
 
 ### Скачать готовый билд
-- **Windows:** [Скачать v1.0.0](https://github.com/USERNAME/Snakee/releases/latest)
-- **WebGL (в браузере):** [Играть на itch.io](https://username.itch.io/Snakee)
+- **Windows:** [Скачать v1.0.0](https://github.com/xrente/Snakee/releases/latest)
+- **WebGL (в браузере):** [Играть на itch.io](https://xrente.itch.io/Snakee)
 
 > 💡 Для WebGL ничего скачивать не нужно — игра запускается прямо в браузере.
 
 ### Запуск из исходников
 1. Клонируй репозиторий:
    ```bash
-   git clone https://github.com/TabFGitHub/Snakee.git
+   git clone https://github.com/xrente/Snakee.git
 
 2. Открой проект в Unity Hub.
 
