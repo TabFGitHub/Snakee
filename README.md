@@ -23,11 +23,24 @@
 - Unity Input System
 - TextMeshPro
 
-## Запуск
-1. Клонируй репозиторий
-2. Открой проект в Unity Hub (2022.3 LTS)
-3. Открой сцену `Assets/Scenes/MainMenu.unity`
-4. Нажми Play
+## 🎮 Играть
+
+### Скачать готовый билд
+- **Windows:** [Скачать v1.0.0](https://github.com/USERNAME/snake-unity/releases/latest)
+- **WebGL (в браузере):** [Играть на itch.io](https://username.itch.io/snake-unity)
+
+> 💡 Для WebGL ничего скачивать не нужно — игра запускается прямо в браузере.
+
+### Запуск из исходников
+1. Клонируй репозиторий:
+   ```bash
+   git clone https://github.com/USERNAME/snake-unity.git
+
+2. Открой проект в Unity Hub (версия 2022.3 LTS).
+
+3. Открой сцену Assets/Scenes/MainMenu.unity.
+
+4. Нажми ▶ Play.
 
 ## Скриншоты
 ![Menu](docs/screenshots/menu.png)
