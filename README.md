@@ -26,17 +26,17 @@
 ## 🎮 Играть
 
 ### Скачать готовый билд
-- **Windows:** [Скачать v1.0.0](https://github.com/USERNAME/snake-unity/releases/latest)
-- **WebGL (в браузере):** [Играть на itch.io](https://username.itch.io/snake-unity)
+- **Windows:** [Скачать v1.0.0](https://github.com/USERNAME/Snakee/releases/latest)
+- **WebGL (в браузере):** [Играть на itch.io](https://username.itch.io/Snakee)
 
 > 💡 Для WebGL ничего скачивать не нужно — игра запускается прямо в браузере.
 
 ### Запуск из исходников
 1. Клонируй репозиторий:
    ```bash
-   git clone https://github.com/USERNAME/snake-unity.git
+   git clone https://github.com/TabFGitHub/Snakee.git
 
-2. Открой проект в Unity Hub (версия 2022.3 LTS).
+2. Открой проект в Unity Hub.
 
 3. Открой сцену Assets/Scenes/MainMenu.unity.
 
