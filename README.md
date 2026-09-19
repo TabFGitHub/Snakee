@@ -42,9 +42,11 @@
 4. Нажми ▶ Play.
 
 ## Скриншоты
-![Menu](docs/screenshots/menu.png)
-![Gameplay](docs/screenshots/gameplay.png)
-![Game Over](docs/screenshots/gameover.png)
+![Menu](docs/screenshots/Menu.png)
+![Gameplay1](docs/screenshots/Game1.png)
+![Gameplay2](docs/screenshots/Game2.png)
+![Paused](docs/screenshots/Paused.png)
+![Game Over](docs/screenshots/GameOver.png)
 
 ## Документация
 - [Game Design Document](GDD.md)
